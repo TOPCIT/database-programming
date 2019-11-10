@@ -1,12 +1,4 @@
----
-layout: post
-title: "Database studying"
-date: 2019-10-28
-excerpt: "with homework"
-tags: [DB,HW]
-feature: http://i.imgur.com/Ds6S7lJ.png
-comments: true
----
+
 
 ## DB과제
 <figure>
